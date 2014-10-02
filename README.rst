@@ -22,7 +22,7 @@ with ::
 Development
 -----------
 The latest release of the package may be obtained from
-`Github <https://github.com/lebedov/icypher>`_.
+`Github <https://github.com/lebedov/idisplay>`_.
 
 Author
 ------
