@@ -5,7 +5,7 @@ ICypher
 
 Package Description
 -------------------
-IDisplay is an IPython extension that provides cell magic functions
+IDisplay is an IPython extension that provides magic functions
 for accessing IPython's rich display system in the Notebook.
 
 Installation
