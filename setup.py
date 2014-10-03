@@ -28,9 +28,7 @@ CLASSIFIERS = [
     'License :: OSI Approved :: BSD License',
     'Operating System :: OS Independent',
     'Programming Language :: Python',
-    'Topic :: Software Development',
-    'Topic :: Database',
-    'Topic :: Database :: Front-Ends']
+    'Topic :: Software Development']
 PACKAGES =           find_packages()
 
 if __name__ == "__main__":
