@@ -8,6 +8,13 @@ Package Description
 IDisplay is an IPython extension that provides magic functions
 for accessing IPython's rich display system in the Notebook.
 
+.. image:: https://img.shields.io/pypi/v/idisplay.svg
+    :target: https://pypi.python.org/pypi/idisplay
+    :alt: Latest Version
+.. image:: https://img.shields.io/pypi/dm/idisplay.svg
+    :target: https://pypi.python.org/pypi/idisplay
+    :alt: Downloads
+
 Installation
 ------------
 The package may be installed as follows: ::
